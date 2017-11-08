@@ -5,3 +5,17 @@
 body {
   padding: 0 30px 0 30px;
 }
+
+header {
+  height: 100px;
+  border-bottom: 1px solid #ccccccc;
+}
+
+header nav {
+
+nav ul {
+  margin-top: 40px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
